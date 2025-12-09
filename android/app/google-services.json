@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160081589220",
+    "project_id": "meals-app-kris",
+    "storage_bucket": "meals-app-kris.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160081589220:android:8925adb3d3718e004b8df1",
+        "android_client_info": {
+          "package_name": "com.example.meals_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzZqiYXkrg3zET1o31Xsz2XI2eZaQeMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
